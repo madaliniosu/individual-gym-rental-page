@@ -1,0 +1,44 @@
+{
+  "nav": {
+    "book": "Book a session",
+    "dashboard": "My bookings",
+    "account": "Account",
+    "logout": "Log out"
+  },
+  "auth": {
+    "login": "Log in",
+    "signup": "Sign up",
+    "email": "Email address",
+    "password": "Password",
+    "fullName": "Full name",
+    "phone": "Phone number",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?"
+  },
+  "book": {
+    "title": "Book a session",
+    "selectDate": "Select a date",
+    "selectSlots": "Select your time slots",
+    "available": "Available",
+    "unavailable": "Unavailable",
+    "selected": "Selected",
+    "summary": "Booking summary",
+    "totalHours": "Total hours",
+    "totalPrice": "Total price",
+    "confirm": "Confirm and pay",
+    "noSlots": "No slots available for this date"
+  },
+  "dashboard": {
+    "title": "My bookings",
+    "upcoming": "Upcoming",
+    "past": "Past",
+    "empty": "No bookings yet",
+    "cancel": "Cancel booking",
+    "code": "Entrance code"
+  },
+  "account": {
+    "title": "Account",
+    "save": "Save changes",
+    "saved": "Changes saved"
+  }
+}

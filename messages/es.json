@@ -1,0 +1,44 @@
+{
+  "nav": {
+    "book": "Reservar sesión",
+    "dashboard": "Mis reservas",
+    "account": "Cuenta",
+    "logout": "Cerrar sesión"
+  },
+  "auth": {
+    "login": "Iniciar sesión",
+    "signup": "Crear cuenta",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "fullName": "Nombre completo",
+    "phone": "Teléfono",
+    "noAccount": "¿No tienes cuenta?",
+    "hasAccount": "¿Ya tienes cuenta?"
+  },
+  "book": {
+    "title": "Reservar sesión",
+    "selectDate": "Selecciona una fecha",
+    "selectSlots": "Selecciona tus horas",
+    "available": "Disponible",
+    "unavailable": "No disponible",
+    "selected": "Seleccionado",
+    "summary": "Resumen de reserva",
+    "totalHours": "Horas totales",
+    "totalPrice": "Precio total",
+    "confirm": "Confirmar y pagar",
+    "noSlots": "No hay horas disponibles para esta fecha"
+  },
+  "dashboard": {
+    "title": "Mis reservas",
+    "upcoming": "Próximas",
+    "past": "Pasadas",
+    "empty": "Sin reservas todavía",
+    "cancel": "Cancelar reserva",
+    "code": "Código de entrada"
+  },
+  "account": {
+    "title": "Cuenta",
+    "save": "Guardar cambios",
+    "saved": "Cambios guardados"
+  }
+}
